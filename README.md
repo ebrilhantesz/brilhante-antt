@@ -1,13 +1,13 @@
-# Brilhante ANTT — Site
+# Brilhante ANTT - Site
 
 Primeira versão do site institucional one-page para a Brilhante ANTT.
 
 ## Estrutura
 
-- `index.html` — estrutura e conteúdo
-- `style.css` — identidade visual, layout e responsividade
-- `script.js` — menu mobile e pequenos comportamentos
-- `assets/logo-brilhante-antt.png` — logo
+- `index.html` - estrutura e conteúdo
+- `style.css` - identidade visual, layout e responsividade
+- `script.js` - menu mobile e pequenos comportamentos
+- `assets/logo-brilhante-antt.png` - logo
 
 ## Como executar
 
